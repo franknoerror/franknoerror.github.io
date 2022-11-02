@@ -1,15 +1,5 @@
-Syntax highlighted code block
-
+Play Audio
 # Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+<audio src="wavs/FM024_cw8_16_3.wav" controls preload>
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[I'm an inline-style link](https://www.google.com)
