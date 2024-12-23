@@ -1,4 +1,4 @@
-# Minglin Wu
+## Minglin Wu
 
 ## Education
 I'm currently a PhD. student under the supervision of Professor Helen Meng at The Chinese University of Hong Kong
